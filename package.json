@@ -1,0 +1,17 @@
+{
+  "name": "skript",
+  "displayName": "Skript",
+  "description": "All essential tools for developing skript (.sk) code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "johnheikens.intelliskript",
+    "penple.skript-vscode",
+    "TabNine.tabnine-vscode"
+  ]
+}
