@@ -6,6 +6,7 @@
 	"author": "John Heikens",
   "publisher": "JohnHeikens",
 	"license": "SEE LICENSE IN LICENSE",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.73.0"
   },
