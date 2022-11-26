@@ -2,23 +2,23 @@
   "name": "skript",
   "description": "All essential tools for developing skript (.sk) code",
   "displayName": "Skript",
-  "version": "0.0.1",
-	"author": "John Heikens",
+  "version": "0.1.0",
+  "author": "John Heikens",
   "publisher": "JohnHeikens",
-	"license": "SEE LICENSE IN LICENSE",
+  "license": "SEE LICENSE IN LICENSE",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.73.0"
   },
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/JohnHeikens/SkriptExtensionPack"
-	},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohnHeikens/SkriptExtensionPack"
+  },
   "categories": [
     "Extension Packs",
     "Language Packs"
   ],
-  "extensionPack": [ 
+  "extensionPack": [
     "johnheikens.intelliskript",
     "penple.skript-vscode",
     "TabNine.tabnine-vscode"
