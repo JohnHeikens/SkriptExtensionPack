@@ -20,13 +20,22 @@
   ],
   "extensionPack": [
     "johnheikens.intelliskript",
-    "penple.skript-vscode",
-    "TabNine.tabnine-vscode"
+    "TabNine.tabnine-vscode",
+    "wayou.vscode-todo-highlight"
   ],
   "keywords": [
     "skript",
     "sk",
     "intellisense",
     "debug"
-  ]
+  ],
+  "contributes": {
+    "configuration": {
+      "todohighlight.include": {
+        "type": "string",
+        "default": "**/*.sk,**/*.js,**/*.jsx,**/*.ts,**/*.tsx,**/*.html,**/*.php,**/*.css,**/*.scss",
+        "description": "makes TODO highlight work with skript files"
+      }
+    }
+  }
 }
