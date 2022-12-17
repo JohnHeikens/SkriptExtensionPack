@@ -4,6 +4,11 @@ All notable changes to the "skript" extension pack will be documented in this fi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
 
+- 1.0.0
+
+  - updated readme.md
+- 0.2.0
+
+  - removed color theme plugin from extension pack
 - Initial release
